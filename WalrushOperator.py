@@ -30,7 +30,7 @@ g=(f:=e+1+200)
 #         break
 #     print('Continueing the process!')
 
-#with walrush
+#with walrush operator
 while (ans:=input('Do you want to add more?(y/n): ')).lower()=='y':
     print('Process continueing!')
 
